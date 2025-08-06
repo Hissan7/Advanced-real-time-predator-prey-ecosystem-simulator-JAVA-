@@ -7,8 +7,8 @@ Here is a link to the official website (free download) : https://www.bluej.org
 
 1. Run BlueJ
 2. Go to the project tab on your screen (for MacOS it is in the top left)
-3. Click on 'Open project'
-4. Click on the package given
+3. Click on 'Open JAR/ZIP'
+4. Click on the jar file given
 5. Once the package is opened in BlueJ you will see a diagram of many different classes. You can double-click on each class and see the source code, change it etc.
 6. Press the 'compile' button in the top left of the BlueJ screen.
 7. Right click on the 'SimulatorView' class.
