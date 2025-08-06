@@ -13,7 +13,7 @@ Here is a link to the official website (free download) : https://www.bluej.org
 6. Press the 'compile' button in the top left of the BlueJ screen.
 7. Right click on the 'SimulatorView' class.
 8. Click 'Run JavaFX application'. This will load up the program and create an instance of the 'SimulatorView' object.
-9. Right click on this instance and click 'void Simulate(int numstep)
+9. Right click on this instance and click 'void Simulate(int numStep)'
 10. Enter the number of iterations you want the program to run
 11. Watching the program run will show you how the ecosystem changes over time
 
